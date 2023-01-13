@@ -37,7 +37,7 @@ const NavBar = () => {
               </li>
               <li className="nav-item">
                 <Link className="nav-link" to="/entertainment">
-                  Entertainment
+                  New Entertainment
                 </Link>
               </li>
               {/* <li className="nav-item">

@@ -221,7 +221,7 @@ const News = (props) => {
     // });
   };
   const handleNextClick = async () => {
-    console.log("next");
+    console.log("next 2");
     if (page + 1 > Math.ceil(totalResults / 20)) {
       console.log("handleNextClick");
     } else {
